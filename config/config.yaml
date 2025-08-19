@@ -77,3 +77,7 @@ platforms:
     name: "虎扑"
   - id: "v2ex"
     name: "v2ex"
+  - id: "coolapk"
+    name: "酷安"
+  - id: "cankaoxiaoxi"
+    name: "参考消息"
