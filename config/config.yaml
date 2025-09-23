@@ -99,8 +99,4 @@ platforms:
     name: "酷安"
   - id: "cankaoxiaoxi"
     name: "参考消息"
-  - id: "pccbeta"
-    name: "远景论坛"
-  - id: "smzdm"
-    name: "什么值得买"
   
